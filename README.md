@@ -1,0 +1,2 @@
+# La-m-quina-que-escucha
+El sistema de la máquina que escucha realiza análisis dentro de una base de datos de audio con el objetivo generar modelos de escucha que describan formas arquetípicas de aproximarse a la libre improvisación, su objetivo apunta a la generación de modelos que den cuenta de como es la aproximación de un determinado improvisador libre a dicha práctica en cuanto a densidad sonora, amplitud y timbre.
